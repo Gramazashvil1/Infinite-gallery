@@ -1,10 +1,8 @@
-Here’s the updated README with the added description and concise sections:
-
----
-
 # Infinite Scroll Image Gallery
 
-In this project, you can search for any image from Unsplash API and browse endless images with infinite scroll. If you like any image, you can click on it to visit the Unsplash website, where you can download the image in the highest quality for free.
+In this project, you can search for any image from Unsplash API and browse endless images with infinite scroll. If you
+like any image, you can click on it to visit the Unsplash website, where you can download the image in the highest
+quality for free.
 
 ## Features
 
